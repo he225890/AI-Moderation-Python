@@ -10,7 +10,7 @@ The project uses the GPT-3.5 model to transform inappropriate comments into more
 
 - `moderate_comment_AI.py`: The main script that processes comments.
 - `requirements.txt`: A list of dependencies required to run the project.
-- `NPS_REASON_PROCESSED.xlsx`: The output file containing processed comments, with names replaced and profanity identified.
+- `NPS_REASON_EXTRACTED.xlsx`: The input file containing comments to be processed.
 
 ## Requirements
 
